@@ -1,6 +1,7 @@
 # HPTCQ
 
 HPTCQ: Hierarchical Pattern-based of Temporal Knowledge Graph Complex Query
+
 This repository contains the implementation of the HPTCQ architectures described in the paper.
 
 ## Installation
