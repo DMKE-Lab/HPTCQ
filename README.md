@@ -63,7 +63,7 @@ sh train.sh
 ```
 The trained query ranking model file is saved under `./model_ranking/runs` directory. 
 
-#### 7. Test for query ranking model
+### 7. Test for query ranking model
 execute the following command for the final results of query.
 ```bash
 cd ./model_ranking
